@@ -60,7 +60,7 @@
       },
       "SUPPORT_CHANNEL": {
         "description": "Your Updates Channel link",
-        "value": "https://t.me/Star_X_Network",
+        "value": "https://t.me/MUSIC_BOTS_UPDATE",
         "required": false
       },
       "PING_IMG_URL": {
